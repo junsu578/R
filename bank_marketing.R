@@ -1,8 +1,3 @@
-library(usethis)
-
-use_github()
-
-
 library(ggplot2)
 library(ggthemes)
 library(class)
